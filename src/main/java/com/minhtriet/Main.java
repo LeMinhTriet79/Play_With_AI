@@ -430,7 +430,7 @@ public class Main {
 
         private String loadApiKey() {
             // Bạn nhớ giữ API key tại đây để hệ thống nạp ngầm khi nhấn Send nhé
-            return "AIzaSyDMpQCu3PtCd6OBPHllDTUBNKq4ZqmsCl8";
+            return "";
         }
     }
 }
